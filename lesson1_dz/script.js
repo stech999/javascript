@@ -40,3 +40,4 @@ console.log(`Вчера на улице было ${cloudy} всего 20${celc}\
 let favourite_number = 13;
 let smile = '\u{263A}';
 console.log(`Меня зовут ${name}, мне 37 лет, и мое любимое число — ${favourite_number} ${smile}.`);
+console.log();
