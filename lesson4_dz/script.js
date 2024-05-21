@@ -62,7 +62,7 @@ console.log('    * Необязательное задание. *\n',
     'xxxx\n',
     'xxxxx');
 console.log('Решение:');
-for (let k = 0; k < 5; k++) {
+for (let k = 0; k < 20; k++) {
     console.log('\n');
     for (let l = 0; l <= k; l++) {
         console.log('x');
